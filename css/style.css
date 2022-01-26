@@ -80,6 +80,7 @@ span{
     text-transform: uppercase;
     text-shadow: none;
     text-decoration: underline;
+    white-space:nowrap;
 }
 
 footer{
